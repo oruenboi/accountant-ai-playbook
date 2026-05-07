@@ -4,6 +4,11 @@ Practical skills, workflows, and best practices for accountants and corporate se
 
 This repository is intended for a closed practitioner community. It focuses on reusable Codex skills, review checklists, templates, and operating patterns that help professionals deliver accounting, compliance, corporate secretarial, and client advisory work with stronger AI support.
 
+## Official Skill Repositories
+
+- [OpenAI Skills](https://github.com/openai/skills)
+- [Anthropic Skills](https://github.com/anthropics/skills)
+
 ## Current Skill Areas
 
 - Bank-to-books bookkeeping workflows
