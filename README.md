@@ -17,6 +17,7 @@ The Anthropic adapter skills in this repository are original compatibility notes
 
 ## Current Skill Areas
 
+- AI visibility and GEO readiness audits
 - Bank-to-books bookkeeping workflows
 - DBS-to-Xero bank import conversion
 - Document-to-Markdown conversion
