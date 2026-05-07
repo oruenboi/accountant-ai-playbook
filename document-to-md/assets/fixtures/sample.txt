@@ -1,0 +1,1 @@
+Plain text sample for fallback. Bullet: (a) first point; (b) second point.

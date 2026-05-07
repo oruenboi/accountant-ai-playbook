@@ -1,0 +1,1186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-01-09T00:00:09.869Z"><INDIVIDUALS><INDIVIDUAL>
+      <DATAID>690727</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>FRANÇOIS</FIRST_NAME>
+      <SECOND_NAME>YANGOUVONDA</SECOND_NAME>
+      <THIRD_NAME>BOZIZÉ</THIRD_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.001</REFERENCE_NUMBER>
+      <LISTED_ON>2014-05-09</LISTED_ON>
+      <COMMENTS1>Mother’s name is Martine Kofio. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <TITLE>
+        <VALUE>Former Head of State Central African Republic </VALUE>
+        <VALUE>Professor</VALUE>
+      </TITLE>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+        <VALUE>South Sudan</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2014-11-04</VALUE>
+        <VALUE>2018-02-16</VALUE>
+        <VALUE>2019-03-01</VALUE>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Bozize Yangouvonda</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Samuel Peter Mudde</ALIAS_NAME>
+        <NOTE>born 16 Dec. 1948, in Izo South Sudan</NOTE>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Uganda</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Bangui</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+        <NOTE>since his return from Uganda in December 2019</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1946-10-14</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1948-12-16</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Mouila</CITY>
+        <COUNTRY>Gabon</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Izo</CITY>
+        <COUNTRY>South Sudan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D00002264</NUMBER>
+        <DATE_OF_ISSUE>2013-06-11</DATE_OF_ISSUE>
+        <NOTE>issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11
+Jun. 2017. Diplomatic passport issued under name Samuel Peter Mudde</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>M4800002143743</NUMBER>
+        <NOTE>Personal number on passport</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>690728</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>NOURREDINE</FIRST_NAME>
+      <SECOND_NAME>ADAM</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.002</REFERENCE_NUMBER>
+      <LISTED_ON>2014-05-09</LISTED_ON>
+      <COMMENTS1>Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>General</VALUE>
+        <VALUE>Minister for Security</VALUE>
+        <VALUE>Director General of the "Extraordinary Committee for the Defence of
+Democratic Achievements</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+        <VALUE>Sudan</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2014-11-04</VALUE>
+        <VALUE>2019-03-01</VALUE>
+        <VALUE>2019-09-06</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Nureldine Adam</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Nourreldine Adam</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Nourreddine Adam</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Mahamat Nouradine Adam</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Mohamed Adam Brema Abdallah</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Birao</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Sudan</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1970</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1969</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1971</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1970-01-01</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1971-01-01</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Ndele</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Algenana</CITY>
+        <COUNTRY>Sudan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D00001184</NUMBER>
+        <ISSUING_COUNTRY>Central African Republic</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P04838205</NUMBER>
+        <DATE_OF_ISSUE>2018-06-10</DATE_OF_ISSUE>
+        <NOTE>Issued in Bahri, Sudan. Expires on 9 June 2023. Passport issued under the name
+                    of Mohamed Adam Brema Abdallah</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>20227088368 </NUMBER>
+        <ISSUING_COUNTRY>Sudan</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908464</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ALFRED</FIRST_NAME>
+      <SECOND_NAME>YEKATOM</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.004</REFERENCE_NUMBER>
+      <LISTED_ON>2015-08-20</LISTED_ON>
+      <COMMENTS1>Has controlled and commanded a large group of armed militia men. Father’s
+name (adoptive father) is Ekatom Saragba (also spelled Yekatom Saragba). Brother of Yves
+Saragba, an anti-Balaka commander in Batalimo, Lobaye province, and a former FACA
+soldier. Physical description: eye colour: black; hair colour: bold; complexion: black;
+height: 170cm; weight: 100kg. Photo available for inclusion in the INTERPOL-UN Security
+Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Chief Corporal of the Forces Armées Centrafricaines (FACA)</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Colonel Rombhot</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Colonel Rambo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Colonel Rambot</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Colonel Rombot</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Colonel Romboh</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Alfred Yekatom Saragba</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Alfred Ekatom</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Alfred Saragba</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>Mbaiki, Lobaye Province</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+        <NOTE>Tel. +236 72 15 47 07 / +236 75 09 43 41</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>Bimbo, Ombella-Mpoko province</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+        <NOTE>previous location</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>The Hague </CITY>
+        <NOTE>since his transfer to the International Criminal Court on 17 November
+                    2018)</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1976-06-23</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908465</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>HABIB</FIRST_NAME>
+      <SECOND_NAME>SOUSSOU</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.005</REFERENCE_NUMBER>
+      <LISTED_ON>2015-08-20</LISTED_ON>
+      <COMMENTS1>Appointed as anti-balaka zone commander (COMZONE) of Boda on 11 April 2014 and on 28 June 2014, for the entire Lobaye Province. Under his command, targeted killings, clashes and attacks against humanitarian organizations and aid workers have continued to take place. Physical description: eye colour: brown; hair colour: black; height: 160cm; weight: 60kg. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Coordinator of anti-Balaka for Lobaye province</VALUE>
+        <VALUE>Master-corporal of the Central African Armed Forces (FACA) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Soussou Abib</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET>Boda</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+        <NOTE>Tel. +236 72198628</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1980-03-13</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STREET>Boda</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908466</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>OUMAR</FIRST_NAME>
+      <SECOND_NAME>YOUNOUS ABDOULAY</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.006</REFERENCE_NUMBER>
+      <LISTED_ON>2015-08-20</LISTED_ON>
+      <COMMENTS1>Is a diamond smuggler and a three-star general of the Séléka and close
+confident of former CAR interim president Michel Djotodia. Physical description: hair
+colour: black; height: 180cm; belongs to the Fulani ethnic group. Photo available for
+inclusion in the INTERPOL-UN Security Council Special Notice. Reportedly deceased as at 11 October 2015 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Former Séléka General</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Sudan</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2015-10-20</VALUE>
+        <VALUE>2016-08-23</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Oumar Younous</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Omar Younous</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Oumar Sodiam</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Oumar Younous M’Betibangui</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Bria</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+        <NOTE>Tel. +236 75507560</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>Birao</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>Tullus, Southern Darfur</STATE_PROVINCE>
+        <COUNTRY>Sudan</COUNTRY>
+        <NOTE>previous location</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1970-04-02</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>CAR diplomatic passport no. D00000898</NUMBER>
+        <DATE_OF_ISSUE>2013-04-11</DATE_OF_ISSUE>
+        <NOTE>valid until 10 April 2018</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908495</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>HAROUN</FIRST_NAME>
+      <SECOND_NAME>GAYE</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.007</REFERENCE_NUMBER>
+      <LISTED_ON>2015-12-17</LISTED_ON>
+      <COMMENTS1>Gaye is a leader of the Front Populaire pour la Renaissance de Centrafrique (FPRC) (not listed) a marginalized ex-Seleka armed group in Bangui. He is also a leader of the so-called “Defense Committee” of Bangui’s PK5 (known as PK5 Resistance’ or ‘Texas’) (not listed), which extorts money from residents and threatens and employs physical violence. Gaye was appointed on 2 November 2014 by Nourredine Adam (CFi.002) as rapporteur of the political coordination of the FPRC. On 9 May 2014, the Security Council Committee established by resolution 2127 (2013) on CAR included Adam on its sanctions list. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Rapporteur of the political coordination of the Front Populaire pour la
+Renaissance de Centrafrique (FPRC)</VALUE>
+      </DESIGNATION>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Haroun Geye</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Aroun Gaye</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Aroun Geye</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Bangui</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1968-01-30</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1969-01-30</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>Central African Republic number O00065772</NUMBER>
+        <NOTE>letter O followed by 3 zeros), expires 30 Dec. 2019</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908496</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>EUGÈNE</FIRST_NAME>
+      <SECOND_NAME>BARRET</SECOND_NAME>
+      <THIRD_NAME>NGAÏKOSSET</THIRD_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.008</REFERENCE_NUMBER>
+      <LISTED_ON>2015-12-17</LISTED_ON>
+      <COMMENTS1>Captain Eugène Barret Ngaïkosset is a former member of former President François Bozizé’s (CFi.001) presidential guard and associated with the anti-Balaka movement. He escaped from jail on 17 May 2015 following his extradition from Brazzaville and created his own anti-balaka faction including former FACA fighters. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Former Captain, CAR Presidential Guard</VALUE>
+        <VALUE>Former Captain, CAR Naval Forces</VALUE>
+      </DESIGNATION>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2018-04-26</VALUE>
+        <VALUE>2019-03-01</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Eugene Ngaikosset</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Eugene Ngaikoisset</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Eugene Ngakosset</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Eugene Barret Ngaikosse</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Eugene Ngaikouesset</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>“The Butcher of Paoua”</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Ngakosset</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Bangui</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1967-10-08</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>Central African Republic armed forces (FACA) Military identification
+number 911-10-77</NUMBER>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908538</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>JOSEPH</FIRST_NAME>
+      <SECOND_NAME>KONY</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.009</REFERENCE_NUMBER>
+      <LISTED_ON>2016-03-07</LISTED_ON>
+      <COMMENTS1>Kony is the founder and leader of the Lord’s Resistance Army (LRA) (CFe.002). Under his leadership, the LRA has engaged in the abduction, killing, and mutilation of thousands of civilians across Central Africa. The LRA has been responsible for kidnapping, displacing, committing sexual violence against, and killing hundreds of individuals across CAR, and has looted and destroyed civilian property. Father’s name is Luizi Obol. Mother’s name is Nora Obol. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <TITLE>
+        <VALUE> General </VALUE>
+      </TITLE>
+      <DESIGNATION>
+        <VALUE>Commander of the Lord’s Resistance Army </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Uganda</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Kony</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Joseph Rao Kony</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Josef Kony</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Le Messie sanglant</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Vakaga</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Haute-Kotto</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Basse-Kotto</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Haut-Mbomou</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Mbomou</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Haut-Uolo</CITY>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Bas-Uolo</CITY>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Reported address: Kafia Kingi </CITY>
+        <NOTE>(a territory on the border of Sudan and South Sudan whose final status has yet to be determined). As of January 2015, 500 Lord’s Resistance Army elements were reportedly expelled from the Sudan.</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1959</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1960</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1961</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1963</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1964-09-18</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1965</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <NOTE>August 1961 </NOTE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <NOTE>July 1961 </NOTE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1961-01-01</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <NOTE>April 1963 </NOTE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Palaro Village, Palaro Parish, Omoro County, Gulu District</CITY>
+        <COUNTRY>Uganda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Odek, Omoro, Gulu</CITY>
+        <COUNTRY>Uganda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Atyak</CITY>
+        <COUNTRY>Uganda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908549</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ALI</FIRST_NAME>
+      <SECOND_NAME>KONY</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.010</REFERENCE_NUMBER>
+      <LISTED_ON>2016-08-23</LISTED_ON>
+      <COMMENTS1>Ali Kony is a deputy in the Lord’s Resistance Army (LRA) (CFe.002), a designated entity and the son of LRA leader Joseph Kony (CFi.009), a designated individual.  Ali was incorporated into the LRA’s leadership hierarchy in 2010.  He is part of a group of senior LRA officers who are based with Joseph Kony.   INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Deputy, Lord’s Resistance Army</VALUE>
+      </DESIGNATION>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Lalobo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammad Labolo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammed</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammed Lalobo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammed Kony</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammed Labola</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mohammed Salongo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Bashir Lalobo</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Lalobo Bashir</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Otim Kapere</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>“Bashir”</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>“Caesar”</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>“One-P”</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>“1-P”</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET>Kafia Kingi</STREET>
+        <NOTE>a territory on the border of Sudan and South Sudan whose final status has yet to be determined</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1994</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1993</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1995</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1992</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908550</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>SALIM</FIRST_NAME>
+      <SECOND_NAME>KONY</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.011</REFERENCE_NUMBER>
+      <LISTED_ON>2016-08-23</LISTED_ON>
+      <COMMENTS1>Salim Kony is a deputy in the Lord’s Resistance Army (LRA) (CFe.002), a designated entity and the son of LRA leader Joseph Kony (CFi.009), a designated individual. Salim was incorporated into the LRA’s leadership hierarchy in 2010.  He is part of a group of senior LRA officers who are based with Joseph Kony.   INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Deputy, Lord’s Resistance Army</VALUE>
+      </DESIGNATION>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Salim Saleh Kony</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Salim Saleh</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Salim Ogaro</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Okolu Salim</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Salim Saleh Obol Ogaro</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Simon Salim Obol</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET>Kafia Kingi</STREET>
+        <NOTE>a territory on the border of Sudan and South Sudan whose final status has yet to be determined</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1992</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1991</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1993</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908579</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ABDOULAYE</FIRST_NAME>
+      <SECOND_NAME>HISSENE</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.012</REFERENCE_NUMBER>
+      <LISTED_ON>2017-05-17</LISTED_ON>
+      <COMMENTS1>Hissène was formerly the Minister of Youth and Sports as part of the Cabinet for the Central African Republic’s former President Michel Djotodia. Prior to that, he was the head of the Convention of Patriots for Justice and Peace, a political party. He also established himself as a leader of armed militias in Bangui, in particular in the “PK5” (3rd district) neighborhood. In October 2016, Abdoulaye Hissène was appointed President of the Conseil National de Défense et de Sécurité, a body which was created at the time to gather military leaders and commanding fighters from all ex-Séléka factions. He has remained in this position since then, but has actual control over FPRC fighters only. Father’s name is Abdoulaye. Mother’s name is Absita Moussa. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <TITLE>
+        <VALUE>President of the Conseil National de Défense et de Sécurité (CNDS) and military
+                leader of the Front Populaire pour la Renaissance de la Centrafrique </VALUE>
+      </TITLE>
+      <DESIGNATION>
+        <VALUE> “general” </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+        <VALUE>Chad</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2019-03-01</VALUE>
+        <VALUE>2019-04-18</VALUE>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoulaye Issène</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoulaye Hissein</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Hissene Abdoulaye</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoulaye Issène Ramadane</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoulaye Issene Ramadan</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Issene Abdoulaye</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>KM5, Bangui</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Nana-Grebizi</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Ndjari, Ndjamena</CITY>
+        <COUNTRY>Chad</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Ndélé, Bamingui-Bangoran </CITY>
+        <NOTE>main location since August 2016</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1967</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1967-01-01</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Ndele, Bamingui-Bangoran</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Haraze Mangueigne</CITY>
+        <COUNTRY>Chad</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>CAR diplomatic passport no. D00000897</NUMBER>
+        <DATE_OF_ISSUE>2013-04-05</DATE_OF_ISSUE>
+        <NOTE>valid until 4 April 2018</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>CAR diplomatic passport no. D00004262</NUMBER>
+        <DATE_OF_ISSUE>2014-03-11</DATE_OF_ISSUE>
+        <NOTE>expires on 10 March 2019</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>national identity card no. </TYPE_OF_DOCUMENT2>
+        <NUMBER>103-00653129-22</NUMBER>
+        <ISSUING_COUNTRY>Chad</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2009-04-21</DATE_OF_ISSUE>
+        <NOTE>expires on 21 April 2019</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908840</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MARTIN</FIRST_NAME>
+      <SECOND_NAME>KOUMTAMADJI</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.013</REFERENCE_NUMBER>
+      <LISTED_ON>2020-04-20</LISTED_ON>
+      <COMMENTS1>Martin Koumtamadji founded the FDPC in 2005. He joined the Séléka
+coalition in December 2012 before leaving it in April 2013 after the rebels took power in Bangui.
+After being arrested in Cameroon, he was then transferred to Brazzaville in the Republic of
+Congo. He always remained in command of his troops on the ground in the CAR even when he
+was in Brazzaville before returning to the CAR (between November 2014 and 2019). The FDPC
+signed the Political Agreement for Peace and Reconciliation in the CAR on 6 February 2019 but
+Martin Koumtamadji remains a threat to the peace, stability and security of the CAR. Photo available
+for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>President and commander-in-chief of the Front Démocratique du Peuple
+                Centrafricain (FDPC)</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Chad</VALUE>
+        <VALUE>Central African Republic</VALUE>
+        <VALUE>Congo</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2020-05-05</VALUE>
+        <VALUE>2020-07-28</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoulaye Miskine</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdoullaye Miskine</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Martin Nadingar Koumtamadji</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Martin Nkoumtamadji</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Martin Koumta Madji</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Omar Mahamat</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Am Dafock</CITY>
+        <STATE_PROVINCE>Vakaga prefecture</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Ndjamena</CITY>
+        <COUNTRY>Chad</COUNTRY>
+        <NOTE>since his arrest in November 2019</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1965-10-05</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1965-03-03</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Ndïnaba</CITY>
+        <COUNTRY>Chad</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Kobo</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Kabo</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>CAR diplomatic passport no. 06FBO2262</NUMBER>
+        <DATE_OF_ISSUE>2007-02-22</DATE_OF_ISSUE>
+        <NOTE>expired on 21 Feb. 2012</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>Service passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>Congo service passport number SA0020249 </NUMBER>
+        <DATE_OF_ISSUE>2019-01-22</DATE_OF_ISSUE>
+        <NOTE>expires on 21 January 2022</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908845</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>BI SIDI</FIRST_NAME>
+      <SECOND_NAME>SOULEMAN</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.014</REFERENCE_NUMBER>
+      <LISTED_ON>2020-08-05</LISTED_ON>
+      <COMMENTS1>Bi Sidi Souleman leads the Central African Republic (CAR)-based militia group Return, Reclamation, Rehabilitation (3R) which has killed, tortured, raped, and displaced civilians and engaged in arms trafficking, illegal taxation activities, and warfare with other militias since its creation in 2015. Bi Sidi Souleman himself has also participated in torture. On 6 February 2019, 3R signed the Political Agreement for Peace and Reconciliation in the CAR but has engaged in acts violating the Agreement and remains a threat to the peace, stability and security of the CAR. For instance, on 21 May 2019, 3R killed 34 unarmed civilians in three villages, summarily executing adult males. Bi Sidi Souleman openly confirmed to a UN Entity that he had ordered 3R elements to the villages on the date of the attacks, but did not admit to giving the orders for 3R to kill.  In December 2020, after having joined a coalition of armed groups established to disrupt the electoral process, Bi Sidi Souleman was reportedly killed during fighting.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>President and self-proclaimed “general” of the Retour, Réclamation et
+                Réhabilitation (3R) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2021-02-22</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Sidiki</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>“General” Sidiki</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Sidiki Abbas</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Souleymane Bi Sidi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Bi Sidi Soulemane</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Koui</CITY>
+        <STATE_PROVINCE>Ouham-Pendé prefecture</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1962-07-20</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Bocaranga</STATE_PROVINCE>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>Laissez-passer no. N°235/MISPAT/DIRCAB/DGPC/DGAEI/SI/SP </NUMBER>
+        <DATE_OF_ISSUE>2019-03-15</DATE_OF_ISSUE>
+        <NOTE>issued by the Minister of Interior of the Central African Republic</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908867</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ALI</FIRST_NAME>
+      <SECOND_NAME>DARASSA</SECOND_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFi.015</REFERENCE_NUMBER>
+      <LISTED_ON>2021-12-21</LISTED_ON>
+      <COMMENTS1>Ali Darassa founded and still leads the Central African Republic (CAR)-based militia group Unité pour la Paix en Centrafrique (UPC), which has killed, tortured, raped, and displaced civilians, committed a large number of abuses of human rights and violations of international humanitarian law, and engaged in arms trafficking, illegal taxation activities, and warfare against CAR defence and security forces, as well as other militias, since its creation in 2014. In December 2020, he played a leading role in the creation of the Coalition des patriotes pour le changement (CPC) that took up arms to oppose the elections and attempted to enter the capital Bangui, in violation of the commitments made by the UPC under the Accord politique pour la paix et la reconciliation (APPR) signed on 6 February 2019.   INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Founder and leader of the Unité pour la Paix en Centrafrique (UPC) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Central African Republic</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Darassa Mahamat</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Mahamat Darassa</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Daras</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Ali Darrassa</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Général Ali Darassa</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY />
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1978-09-22</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Kabo, Ouham Prefecture</CITY>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER> 10978000004482 </NUMBER>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    </INDIVIDUALS><ENTITIES><ENTITY>
+      <DATAID>6908539</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>LORD’S RESISTANCE ARMY</FIRST_NAME>
+      <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CFe.002</REFERENCE_NUMBER>
+      <LISTED_ON>2016-03-07</LISTED_ON>
+      <COMMENTS1>Emerged in northern Uganda in the 1980s. Has engaged in the abduction, killing and mutilation of thousands of civilians in Central Africa, including hundreds in the Central African Republic. The leader is Joseph Kony (CFi.009). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>LRA</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>Lord’s Resistance Movement (LRM)</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>Lord’s Resistance Movement/Army (LRM/A)</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ADDRESS>
+        <STREET>Vakaga</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Haute-Kotto</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Basse-Kotto</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Haut-Mbomou</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Mbomou</STREET>
+        <COUNTRY>Central African Republic</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Haut-Uolo</STREET>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Bas-Uolo</STREET>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </ENTITY_ADDRESS>
+      <ENTITY_ADDRESS>
+        <STREET>Reported address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined). </STREET>
+        <NOTE>As of January 2015, 500 Lord’s Resistance Army  elements were reportedly expelled from the Sudan.</NOTE>
+      </ENTITY_ADDRESS>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </ENTITY>
+    </ENTITIES></CONSOLIDATED_LIST>

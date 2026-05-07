@@ -1,0 +1,40 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node dependencies and build outputs
+node_modules/
+dist/
+build/
+.next/
+.vite/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+*.tmp
+
+# Local generated artifacts
+*.bak
+*.backup

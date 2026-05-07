@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-01-09T00:00:09.869Z"><INDIVIDUALS><INDIVIDUAL>
+      <DATAID>6908434</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ABD</FIRST_NAME>
+      <SECOND_NAME>AL-KHALIQ</SECOND_NAME>
+      <THIRD_NAME>AL-HOUTHI</THIRD_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.001</REFERENCE_NUMBER>
+      <LISTED_ON>2014-11-07</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>عبدالخالق الحوثي</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Gender [Male]. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Huthi military commander</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2014-11-20</VALUE>
+        <VALUE>2016-08-26</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abd-al-Khaliq al-Huthi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abd-al-Khaliq Badr-al-Din al Huthi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>‘Abd al-Khaliq Badr al-Din al-Huthi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abd al-Khaliq al-Huthi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Abu-Yunus</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY />
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1984</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908435</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ABDULLAH</FIRST_NAME>
+      <SECOND_NAME>YAHYA</SECOND_NAME>
+      <THIRD_NAME>AL HAKIM</THIRD_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.002</REFERENCE_NUMBER>
+      <LISTED_ON>2014-11-07</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <NAME_ORIGINAL_SCRIPT>عبد الله يحيى الحاكم</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Gender [Male]. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Huthi group second-in-command</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2014-11-20</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abu Ali al Hakim</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abu-Ali al-Hakim</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdallah al-Hakim</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abu Ali Alhakim</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdallah al-Mu’ayyad</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Dahyan</CITY>
+        <STATE_PROVINCE>Sa’dah Governorate</STATE_PROVINCE>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+        <YEAR>1985</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+        <FROM_YEAR>1984</FROM_YEAR>
+        <TO_YEAR>1986</TO_YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Dahyan</CITY>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Sa'dah Governorate</STATE_PROVINCE>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908455</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ABDULMALIK</FIRST_NAME>
+      <SECOND_NAME>AL-HOUTHI</SECOND_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.004</REFERENCE_NUMBER>
+      <LISTED_ON>2015-04-14-04:00</LISTED_ON>
+      <COMMENTS1>Leader of Yemen's Houthi Movement. Has engaged in acts that threaten the
+peace, security, or stability of Yemen.</COMMENTS1>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2016-08-26</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abdulmalik al-Huthi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY />
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE />
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY />
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908856</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>SULTAN</FIRST_NAME>
+      <SECOND_NAME>SALEH</SECOND_NAME>
+      <THIRD_NAME>AIDA AIDA</THIRD_NAME>
+      <FOURTH_NAME>ZABIN</FOURTH_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.006</REFERENCE_NUMBER>
+      <LISTED_ON>2021-02-25</LISTED_ON>
+      <COMMENTS1>Sultan Saleh Aida Aida Zabin has engaged in acts that threaten the peace, security and stability of Yemen, including violations of applicable international humanitarian law and human rights abuses in Yemen. Zabin has played a prominent role in a policy of intimidation and use of systematic arrest, detention, torture, sexual violence and rape against politically active women. Zabin as director for CID is directly responsible for, or by virtue of his authority responsible for, and complicit in the use of multiple places of detention including house arrest, police stations, formal prisons and detention centres and undisclosed detention centres. In these sites, women, including at least one minor, were forcibly disappeared, repeatedly interrogated, raped, tortured, denied timely medical treatment and subjected to forced labour. Zabin himself directly inflicted torture in some cases. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Director, or General Manager, of the Criminal Investigation Department
+                (CID), Sana’a based ministry of interior, in Sana’a, Yemen </VALUE>
+        <VALUE>Brigadier</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2021-04-05</VALUE>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Abu Saqar Zabin</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Abu Sagar Zabin</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Sana’a</CITY>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1986-02-05</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Razih District, Sa’dah Governorate</CITY>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>10010095104</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2013-12-26</DATE_OF_ISSUE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>military identification number: </TYPE_OF_DOCUMENT2>
+        <NUMBER>20432</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+        <NOTE>issued in 2018</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908863</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>SALEH</FIRST_NAME>
+      <SECOND_NAME>MESFER</SECOND_NAME>
+      <THIRD_NAME>SALEH</THIRD_NAME>
+      <FOURTH_NAME>AL SHAER</FOURTH_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.007</REFERENCE_NUMBER>
+      <LISTED_ON>2021-11-09</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>صالح مسفر صالح الشاعر </NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>As Houthi ‘Assistant Minister of Defence for Logistics’, assisted the Houthis in acquiring smuggled arms and weapons. As ‘Judicial Custodian’ directly involved in the widespread and unlawful appropriation of assets and entities owned by private individuals under arrest by the Houthis or forced to take refuge outside of Yemen. Physical Description: Eye Colour: Brown; Hair: Grey; Complexion: Medium; Build: Slim; Height (ft/in): Unknown; Weight (lbs): Unknown; and Clan: Member of the Hashid tribal confederacy. Photograph available for inclusion in INTERPOL-UNSC Special Notice web link: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Major General, ‘Judicial Custodian’ of properties and funds owned by
+                Houthis’ opponents</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Saleh Mosfer Saleh al Shaer</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Saleh Musfer Saleh al Shaer</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Saleh Mesfer al Shaer</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Saleh al Shae</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Saleh al Sha’ir</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Abu Yasser</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Al Safrah, Sa’dah Governorate</STATE_PROVINCE>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>05274639</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2013-10-07</DATE_OF_ISSUE>
+        <NOTE>Expiration date: 7 Oct 2019</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>00481779</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2000-12-09</DATE_OF_ISSUE>
+        <NOTE>Expiration date: 9 Dec 2006</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>1388114</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>10010057512</NUMBER>
+        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908864</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MUHAMMAD</FIRST_NAME>
+      <SECOND_NAME>ABD AL-KARIM</SECOND_NAME>
+      <THIRD_NAME>AL-GHAMARI</THIRD_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.008</REFERENCE_NUMBER>
+      <LISTED_ON>2021-11-09</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>محمد عبدالكريم الغماري </NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Houthi Military Chief of General Staff, plays the leading role in orchestrating the Houthis’ military efforts that are directly threatening the peace, security and stability of Yemen, including in Marib, as well as cross-border attacks against Saudi Arabia. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link:  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Major General, Houthi Chief of General Staff </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Mohammad Al-Ghamari</ALIAS_NAME>
+        <DATE_OF_BIRTH>1984</DATE_OF_BIRTH>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1979</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Izla Dhaen, Wahha District, Hajjar Governorate</STATE_PROVINCE>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908865</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>YUSUF</FIRST_NAME>
+      <SECOND_NAME>AL-MADANI</SECOND_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.009</REFERENCE_NUMBER>
+      <LISTED_ON>2021-11-09</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>يوسف المداني</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>A prominent leader of Houthi forces and commander of forces in Hudaydah, Hajjah, Al Mahwit, and Raymah, Yemen – threatening the peace, security, and stability of Yemen. As of 2021, Al-Madani was assigned to the offensive targeting Marib. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link:  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <TITLE>
+        <VALUE>Major General </VALUE>
+      </TITLE>
+      <DESIGNATION>
+        <VALUE>Commander of the Houthi’s Fifth Military Region </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY />
+        <ALIAS_NAME />
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1977</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Muhatta Directorate, Hajjah Province</STATE_PROVINCE>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908884</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MANSUR</FIRST_NAME>
+      <SECOND_NAME>AL-SA’ADI</SECOND_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.010</REFERENCE_NUMBER>
+      <LISTED_ON>2022-09-26</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>منصور السعادي</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Houthi Naval Forces Chief of Staff, who has masterminded lethal attacks against international shipping in the Red Sea, plays a leading role in Houthi naval efforts that directly threaten the peace, security, and stability of Yemen. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Major General, Houthi Commander of Yemen's Naval and Coastal Defense
+                Forces</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Mansoor Ahmed Al Saadi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Mansur Ahmad al-Sa’adi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Abu Sajjad</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1988</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908885</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MOTLAQ</FIRST_NAME>
+      <SECOND_NAME>AMER</SECOND_NAME>
+      <THIRD_NAME>AL-MARRANI</THIRD_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.011</REFERENCE_NUMBER>
+      <LISTED_ON>2022-09-26</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>مطلق عامر المراني</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Former Deputy Head of the Houthi National Security Bureau (NSB), oversaw detainees of the NSB who were subjected to torture and other mistreatment while detained, planned and directed illegal arrests and detention of humanitarian workers and the unlawful diversion of humanitarian assistance in violation of international humanitarian law. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>(Former) Deputy Head of the Houthi National Security Bureau (NSB)
+                (intelligence agency)</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Mutlaq Ali Aamer Al Marrani</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abu Emad</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1984-01-01</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Al-Jawf</CITY>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6908883</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>AHMAD</FIRST_NAME>
+      <SECOND_NAME>AL-HAMZI</SECOND_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEi.012</REFERENCE_NUMBER>
+      <LISTED_ON>2022-10-04</LISTED_ON>
+      <NAME_ORIGINAL_SCRIPT>أحمد الحمزي</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Ahmad al-Hamzi, the commander of the Houthi Air Force and Air Defense Forces, as well as its UAV program, plays a leading role in Houthi military efforts that directly threaten the peace, security, and stability of Yemen. Physical Description: Eye Color: Brown; Hair: Brown. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <DESIGNATION>
+        <VALUE>Major General, Commander of the Houthi Air Force and Air Defense
+                Forces</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Yemen</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE />
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Ahmad 'Ali al-Hamzi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Ahmad 'Ali Ahsan al-Hamzi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Ahmed Ali al-Hamzi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>Muti al-Hamzi</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1985</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Sana'a</CITY>
+        <COUNTRY>Yemen</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT />
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </INDIVIDUAL>
+  </INDIVIDUALS><ENTITIES><ENTITY>
+      <DATAID>6908876</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>THE HOUTHIS</FIRST_NAME>
+      <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>YEe.001</REFERENCE_NUMBER>
+      <LISTED_ON>2022-02-28</LISTED_ON>
+      <COMMENTS1>Listed pursuant to paragraph 5 of resolution 2624 (2022) as subject to the measures imposed by paragraph 14 of resolution 2216 (2015) (targeted arms embargo). The Houthis have engaged in acts that threaten the peace, security, and stability of Yemen. The Houthis have engaged in attacks striking civilians and civilian infrastructure in Yemen, implemented a policy of sexual violence and repression against politically active and professional women, engaged in the recruitment and use of children, incited violence against groups including on the basis of religion and nationality, and indiscriminately used landmines and improvised explosive devices on the West Coast of Yemen. The Houthis have also obstructed the delivery of humanitarian assistance to Yemen, or access to, or distribution of, humanitarian assistance in Yemen. The Houthis have conducted attacks on commercial shipping in the Red Sea using waterborne improvised explosive devices and sea mines. The Houthis have also perpetrated repeated cross-border terrorist attacks striking civilians and civilian infrastructure in the Kingdom of Saudi Arabia and the United Arab Emirates and threatened to intentionally target civilian sites.    INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>ANSARALLAH</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>ANSAR ALLAH</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>PARTISANS OF GOD</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ALIAS>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>SUPPORTERS OF GOD</ALIAS_NAME>
+      </ENTITY_ALIAS>
+      <ENTITY_ADDRESS>
+        <COUNTRY>Yemen</COUNTRY>
+      </ENTITY_ADDRESS>
+      <SORT_KEY />
+      <SORT_KEY_LAST_MOD />
+    </ENTITY>
+  </ENTITIES></CONSOLIDATED_LIST>
