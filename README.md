@@ -13,6 +13,8 @@ This repository is intended for a closed practitioner community. It focuses on r
 
 Skills from external repositories should be treated like third-party code. Review the instructions, scripts, dependencies, and requested permissions before installing or running them. Do not use external skills with client data, credentials, or confidential practice information unless the source is trusted, the skill has been reviewed, and the data handling risk is acceptable for your firm.
 
+The Anthropic adapter skills in this repository are original compatibility notes for this community's Windows/Codex environment. They do not redistribute Anthropic's proprietary skill files; refer to the official Anthropic repository and its license before using upstream materials.
+
 ## Current Skill Areas
 
 - Bank-to-books bookkeeping workflows
@@ -21,6 +23,7 @@ Skills from external repositories should be treated like third-party code. Revie
 - Singapore AML/CTF screening
 - Singapore corporate secretarial private-company workflows
 - Singapore KYC, CDD, and EDD guidance
+- External Anthropic adapter notes for DOCX, PDF, PPTX, and XLSX workflows
 - Skills catalog documentation and orchestration planning
 
 ## Usage Principles
