@@ -9,6 +9,10 @@ This repository is intended for a closed practitioner community. It focuses on r
 - [OpenAI Skills](https://github.com/openai/skills)
 - [Anthropic Skills](https://github.com/anthropics/skills)
 
+## External Skills Disclaimer
+
+Skills from external repositories should be treated like third-party code. Review the instructions, scripts, dependencies, and requested permissions before installing or running them. Do not use external skills with client data, credentials, or confidential practice information unless the source is trusted, the skill has been reviewed, and the data handling risk is acceptable for your firm.
+
 ## Current Skill Areas
 
 - Bank-to-books bookkeeping workflows
