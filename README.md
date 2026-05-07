@@ -27,6 +27,10 @@ The Anthropic adapter skills in this repository are original compatibility notes
 - External Anthropic adapter notes for DOCX, PDF, PPTX, and XLSX workflows
 - Skills catalog documentation and orchestration planning
 
+## Plugin Packages
+
+- `plugins/assessment-submission-coach-plugin`: Agentic AI Foundations assessment submission coaching plugin with Appendix A templates.
+
 ## Usage Principles
 
 - Treat AI outputs as draft work until reviewed by a qualified professional.

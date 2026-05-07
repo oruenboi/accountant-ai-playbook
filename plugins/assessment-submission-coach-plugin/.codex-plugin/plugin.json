@@ -1,0 +1,15 @@
+{
+  "name": "assessment-submission-coach-plugin",
+  "version": "0.1.0",
+  "description": "Codex skill package for coaching Agentic AI Foundations learners through competency-based assessment submission.",
+  "interface": {
+    "displayName": "Assessment Submission Coach",
+    "shortDescription": "Guides learners through the six-section Agentic AI Foundations assessment portfolio.",
+    "defaultPrompt": "Help me prepare my Agentic AI Foundations assessment submission."
+  },
+  "skills": [
+    {
+      "path": "skills/assessment-submission-coach"
+    }
+  ]
+}
