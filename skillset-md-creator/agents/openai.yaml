@@ -1,4 +1,0 @@
-interface:
-  display_name: "Skillset.md Creator"
-  short_description: "Create and update skillset.md"
-  default_prompt: "Create or update a skillset.md that defines skills, triggers, inputs/outputs, dependencies, and orchestration constraints for the project."

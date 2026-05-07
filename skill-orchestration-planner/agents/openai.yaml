@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Orchestration Planner"
+  short_description: "Create skillset.md and orchestration plans"
+  default_prompt: "Create or update a skillset.md and orchestration plan that define skills, triggers, inputs/outputs, dependencies, validation checkpoints, and handoffs for the project."

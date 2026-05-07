@@ -21,8 +21,7 @@ Skills from external repositories should be treated like third-party code. Revie
 - Singapore AML/CTF screening
 - Singapore corporate secretarial private-company workflows
 - Singapore KYC, CDD, and EDD guidance
-- Skill orchestration planning
-- Skillset documentation templates
+- Skillset documentation and orchestration planning
 
 ## Usage Principles
 
