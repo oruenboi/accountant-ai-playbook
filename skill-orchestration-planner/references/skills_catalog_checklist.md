@@ -1,4 +1,4 @@
-# Skillset.md QA Checklist
+# Skills Catalog QA Checklist
 
 - All skills listed have matching folders or known names in scope.
 - Each skill block includes: Description, Trigger phrases, Inputs, Outputs, Upstream dependencies, Downstream consumers, Key files, Notes.

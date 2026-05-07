@@ -1,4 +1,4 @@
-# skillset.md
+# skills-catalog.md
 
 ## Purpose
 Define the available skills, triggers, inputs, outputs, and dependencies for orchestration planning.

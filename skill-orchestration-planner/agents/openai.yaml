@@ -1,4 +1,4 @@
 interface:
   display_name: "Skill Orchestration Planner"
-  short_description: "Create skillset.md and orchestration plans"
-  default_prompt: "Create or update a skillset.md and orchestration plan that define skills, triggers, inputs/outputs, dependencies, validation checkpoints, and handoffs for the project."
+  short_description: "Create skills catalogs and orchestration plans"
+  default_prompt: "Create or update a skills-catalog.md and orchestration plan that define skills, triggers, inputs/outputs, dependencies, validation checkpoints, and handoffs for the project."
