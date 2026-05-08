@@ -31,6 +31,8 @@ The Anthropic adapter skills in this repository are original compatibility notes
 
 - `plugins/assessment-submission-coach-plugin`: Agentic AI Foundations assessment submission coaching plugin with Appendix A templates.
 
+Install local plugins from their plugin folder, not from the repository root. For this package, select `plugins/assessment-submission-coach-plugin` so Codex can find `.codex-plugin/plugin.json`.
+
 ## Usage Principles
 
 - Treat AI outputs as draft work until reviewed by a qualified professional.
